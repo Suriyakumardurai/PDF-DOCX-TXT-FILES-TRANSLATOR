@@ -1,0 +1,31 @@
+body {
+    background-image: url('bg.jpg'); /* Specify the path to your background image */
+    background-size: cover;
+    background-position: center;
+    color: white; /* Set text color to white for better visibility on the background image */
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 100px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    color: #ff7f50; /* Coral */
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    background-color: #ff6347; /* Tomato */
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #ff4500; /* Orange Red */
+}
