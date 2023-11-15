@@ -3,7 +3,7 @@ The Python Script to translate languages in files
 
 How to Run
 
-Step 1 : Open Command Prompt 
+Step 1 : Open Command Prompt in this foler path
 
 Step 2 : Run the command "python app.py"
 
