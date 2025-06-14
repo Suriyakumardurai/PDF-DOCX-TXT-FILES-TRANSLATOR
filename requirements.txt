@@ -1,0 +1,4 @@
+flask
+googletrans
+pymupdf
+python-docx
